@@ -1,0 +1,10 @@
+Ошибок в файле  7812
+email	1000
+weight	988
+snils	985
+passport_series	973
+occupation	0
+age	950
+political_views	952
+worldview	927
+address	1037
